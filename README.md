@@ -1,6 +1,11 @@
 # AS Pulse
 
+🇬🇧 [English](README.md) | 🇺🇦 [Українська](README.uk.md)
+
 **Personal Windows Security & Change Companion**
+
+**[🚀 Join the AS Pulse Closed Beta](https://aspulse.app)**  
+*Free to participate. Access is by private invitation.*
 
 This repository presents AS Pulse and contains project information. Application source code is maintained separately.
 
