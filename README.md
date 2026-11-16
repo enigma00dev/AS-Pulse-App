@@ -11,6 +11,34 @@ This repository presents AS Pulse and contains project information. Application 
 
 AS Pulse is a security-led, local-first Windows application that helps you review supported system information, understand changes and decide what to do next.
 
+## Inside AS Pulse
+
+These are screenshots of the running Windows application. The information shown is specific to the captured session; results and available actions can differ on your PC. Some screenshots are cropped to focus on the relevant interface.
+
+### Home — a starting point for your PC
+
+See a summary of supported observations and choose what to review next.
+
+![AS Pulse Home showing a system-drive finding, protection summary, and next-step actions](assets/screenshots/home.png)
+
+### Security — understand Windows protection
+
+Review available protection information while keeping unconfirmed details clearly identified.
+
+![AS Pulse Security showing antivirus and firewall information reported by Windows](assets/screenshots/security.png)
+
+### Change Intelligence — understand what changed
+
+Compare supported observations and examine a summary of confirmed configuration changes. Individual system entry names are omitted from this cropped preview.
+
+![AS Pulse What changed showing a startup configuration comparison summary](assets/screenshots/change-intelligence.png)
+
+### Privacy — user-selected files, local control
+
+Inspect metadata in supported file formats. The app explains when originals remain unchanged and what actions are available.
+
+![AS Pulse Privacy showing supported file-metadata inspection and local-data explanations](assets/screenshots/privacy.png)
+
 ## What AS Pulse helps you explore
 
 - **Change Intelligence** helps you compare supported observations with saved results and see what has changed.
